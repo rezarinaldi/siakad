@@ -1,9 +1,9 @@
-# SiAkademik ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)&nbsp;![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fmuhammadzhuhry%2FSistem-Informasi-Akademik)
+# SiAkademik Polinema ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 
-**SiAkademik** is an system information that can be used by school or other to help them manage their data academic. This system was created by CodeIgniter 3.1.5
+**SiAkademik** is an system information that can be used by school or other to help them manage their data academic. This system was created by [CodeIgniter 3.1.5](https://api.github.com/repos/bcit-ci/CodeIgniter/zipball/3.1.5)
 
-Feature
-----------
+## Feature
+
 - 4 Login Level (can be added later)
 - Login With Session
 - CRUD Siswa(Students)
@@ -27,18 +27,19 @@ Feature
 - Input Nilai Siswa
 - Export Data Nilai (e-Raport)
 
-Requitment
-----------
-- PHP 5
+## Requirement
 
-Note
-----------
-First Login(Admin) <br>
+- [VSCode](https://code.visualstudio.com/)
+- [XAMPP](https://www.apachefriends.org/index.html)
+
+## Note
+
+First Login (Admin) <br>
 **username**: zuhri <br>
 **password**: 123456 <br>
 Database: MySql <br>
-Name: pis_akademik.sql
+Import database: [siakad.sql](db/siakad.sql)
 
-Support
-----------
-If you have any question, feel free to email me.
+## Source
+
+[![Rental Mobil](https://github-readme-stats.vercel.app/api/pin?username=wildanbash&repo=Rental-Mobil&title_color=C5705D&icon_color=ECAE49&text_color=E6CAAF&bg_color=373F51)](https://github.com/wildanbash/Rental-Mobil)
