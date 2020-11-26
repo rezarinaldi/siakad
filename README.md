@@ -42,4 +42,4 @@ Import database: [siakad.sql](db/siakad.sql)
 
 ## Source
 
-[![Rental Mobil](https://github-readme-stats.vercel.app/api/pin?username=wildanbash&repo=Rental-Mobil&title_color=C5705D&icon_color=ECAE49&text_color=E6CAAF&bg_color=373F51)](https://github.com/wildanbash/Rental-Mobil)
+[![Rental Mobil](https://github-readme-stats.vercel.app/api/pin?username=muhammadzhuhry&repo=Sistem-Informasi-Akademik&title_color=C5705D&icon_color=ECAE49&text_color=E6CAAF&bg_color=373F51)](https://github.com/muhammadzhuhry/Sistem-Informasi-Akademik)
