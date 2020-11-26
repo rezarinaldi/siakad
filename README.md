@@ -1,4 +1,4 @@
-# SiAkademik Polinema ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
+# SiAkademik ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 
 **SiAkademik** is an system information that can be used by school or other to help them manage their data academic. This system was created by [CodeIgniter 3.1.5](https://api.github.com/repos/bcit-ci/CodeIgniter/zipball/3.1.5)
 
